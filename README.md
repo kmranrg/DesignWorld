@@ -1,3 +1,3 @@
-# IllustratorWorld
+# DesignWorld
 
-Working with Adobe Illustrator
+Working with Adobe Illustrator & Photoshop
